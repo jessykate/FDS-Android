@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, fdsActivity!</string>
+    <string name="app_name">Android FDS</string>
+    <string name="description">Recently seen fog peers</string>
+    <string name="scan">Scan</string>
+    <string name="announce">Announce</string>
+    <string name="scanButtonColor">#FF0000</string>
+        
+</resources>
