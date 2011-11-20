@@ -59,7 +59,6 @@ public class FogDiscoveryActivity extends Activity {
         setContentView(R.layout.main);
     }
     
-    // what calls this?	
     public void onStart() {                                                                                                                                                           
         super.onStart();
         if(debug) Log.e(TAG, "onStart()");
